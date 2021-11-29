@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/austrian-travels/static/css/main.9e12414a.chunk.css",
+    "main.js": "/austrian-travels/static/js/main.4c805b5f.chunk.js",
+    "main.js.map": "/austrian-travels/static/js/main.4c805b5f.chunk.js.map",
+    "runtime-main.js": "/austrian-travels/static/js/runtime-main.b3713b7d.js",
+    "runtime-main.js.map": "/austrian-travels/static/js/runtime-main.b3713b7d.js.map",
+    "static/js/2.81832a75.chunk.js": "/austrian-travels/static/js/2.81832a75.chunk.js",
+    "static/js/2.81832a75.chunk.js.map": "/austrian-travels/static/js/2.81832a75.chunk.js.map",
+    "index.html": "/austrian-travels/index.html",
+    "static/css/main.9e12414a.chunk.css.map": "/austrian-travels/static/css/main.9e12414a.chunk.css.map",
+    "static/js/2.81832a75.chunk.js.LICENSE.txt": "/austrian-travels/static/js/2.81832a75.chunk.js.LICENSE.txt",
+    "static/media/austria-icon.64f85e87.webp": "/austrian-travels/static/media/austria-icon.64f85e87.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3713b7d.js",
+    "static/js/2.81832a75.chunk.js",
+    "static/css/main.9e12414a.chunk.css",
+    "static/js/main.4c805b5f.chunk.js"
+  ]
+}
